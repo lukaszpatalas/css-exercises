@@ -1,0 +1,3 @@
+* Change order of .para and .small-para.
+* Change order of .button and .confirm.
+* Increase specificity of CSS style for last paragraph.
